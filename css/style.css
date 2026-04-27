@@ -397,6 +397,7 @@ img {
   padding: 7px 12px;
   font-size: 16px;
   border-radius: 12px;
+  display: block;
   cursor: pointer;
   font-weight: 600;
   box-shadow: 8px 8px 16px #b8bdc4, -8px -8px 16px #ffffff;
@@ -410,7 +411,6 @@ img {
     box-shadow: inset 4px 4px 8px #b8bdc4, inset -4px -4px 8px #ffffff;
   }
 }
-
 /*media Queries 767
 ----------------------------------------------------*/
 @media screen and (max-width: 767px) {
